@@ -1,6 +1,6 @@
 ![logo](https://github.com/Arkaprabha13/Arkaprabha13/blob/main/algorithms-word-concepts-banner-programming-data-structure-and-mining-machine-learning-coding-presentation-isolated-lettering-typography-with-li-2AH78NN.jpg)
 <h1 align="center">Hi 👋, I'm Arkaprabha Banerjee</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A computer science enthusiast and a passionate Data Scientist from India."</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Arkaprabha13/Arkaprabha13/blob/main/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkaprabha13&label=Profile%20views&color=0e75b6&style=flat" alt="arkaprabha13" /> </p>
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkaprabha13&show_icons=true&locale=en" alt="arkaprabha13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkaprabha13&" alt="arkaprabha13" /></p>
+<p align="left"><h4>I have a strong interest in the fields of Data Science and Data Structures and Algorithms. Data Science involves extracting valuable insights from data through techniques such as data analysis, statistical analysis, and machine learning. On the other hand, Data Structures and Algorithms are fundamental components of computer science that deal with efficiently organizing and manipulating data. I'm passionate about both domains and believe they complement each other well, allowing me to solve real-world problems and make data-driven decisions.</h4></p>
