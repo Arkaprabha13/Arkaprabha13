@@ -33,7 +33,7 @@
 | **Backend Frameworks** | Django · Django REST Framework · FastAPI · Flask | ASP.NET MVC · Node.js |
 | **Frontend Technologies** | React · Next.js · HTML5 · CSS3 · JavaScript | Vue.js · Angular |
 | **AI/ML Frameworks** | scikit-learn · TensorFlow · PyTorch · LangChain · YOLOv5 | Hugging Face Transformers |
-| **Databases & Storage** | PostgreSQL · MySQL · MongoDB · SQLite · Vector DBs (FAISS, Pinecone) | Redis · Neo4j |
+| **Databases & Storage** | PostgreSQL · MySQL · MongoDB · SQLite · Vector DBs (FAISS, Qdrant) | Redis · Neo4j |
 | **Cloud & DevOps** | Docker · GitHub Actions · AWS basics · Streamlit deployment | Kubernetes · Azure |
 | **Specialized Skills** | RAG Systems · Multi-Agent AI · Computer Vision · AutoML · DSA | MLOps · Blockchain |
 
