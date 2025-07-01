@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/Arkaprabha13/Arkaprabha13/blob/main/algorithms-word-concepts-banner-programming-data-structure-and-mining-machine-learning-coding-presentation-isolated-lettering-typography-with-li-2AH78NN.jpg" width="100%" alt="Data Science & Algorithms Banner">
+  <img src="img.png" width="100%" alt="Data Science & Algorithms Banner">
 </p>
 
 <h1 align="center">Hey there, I'm Arkaprabha Banerjee <img src="https://github.com/Arkaprabha13/Arkaprabha13/blob/main/wave.gif" width="28px" alt="wave"></h1>
