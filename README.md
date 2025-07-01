@@ -91,11 +91,10 @@
 
 | Timeline | Achievement | Impact |
 |----------|------------|---------|
-| **2022-2026** | **B.Tech Computer Science, Heritage Institute of Technology** | CGPA: 8.9/10 · Specialization in AI/ML and Full-Stack Development |
-| **Sep 2024-Present** | **DSA Team Member, NooBuild** | Designing test cases for production APIs, algorithm optimization, mentoring junior developers in competitive programming |
-| **2024** | **Krishak Agricultural AI Platform** | Developed comprehensive farming assistance platform serving 1000+ farmers with satellite monitoring and SMS-based advisory services |
-| **2024** | **AutoML Platform Launch** | Built and deployed automated machine learning platform reducing model development time by 80% for non-technical users |
-| **2024** | **Advanced RAG System Implementation** | Created multi-agent Q&A assistant with context retention and intelligent query routing using state-of-the-art LLM techniques |
+| **2022-2026** | **B.Tech Computer Science, Heritage Institute of Technology** | CGPA: 9.1/10 · Specialization in AI/ML/DS and Full-Stack Development |
+| **Sep 2024-June 2025** | **DSA Team Member, NooBuild** | Designing test cases for production APIs, algorithm optimization, mentoring junior developers in logic building |
+| **2025** | **AutoML Platform Launch** | Built and deployed automated machine learning platform reducing model development time by 80% for non-technical users |
+| **2025** | **Advanced RAG System Implementation** | Created multi-agent Q&A assistant with context retention and intelligent query routing using state-of-the-art LLM techniques |
 
 ---
 
